@@ -11,7 +11,6 @@ import Todos from './components/Todos';
 import Header from './components/layout/Header';
 import AddTodo from './components/AddTodo';
 
-
 export default {
   name: 'App',
   components: {
