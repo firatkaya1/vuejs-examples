@@ -8,11 +8,11 @@
     <b-collapse id="nav-collapse" is-nav >
       <b-navbar-nav class="ml-auto">
         <b-navbar-nav >
-            <b-nav-item :to="'/basket'" >Sepetim ({{getCount}}) </b-nav-item>
+            <b-nav-item :to="'/basket'" >{{ $t("message.basket") }} ({{getCount}}) </b-nav-item>
         </b-navbar-nav>
         <b-nav-item-dropdown text="Lang" right>
-            <b-dropdown-item href="#">EN</b-dropdown-item>
-            <b-dropdown-item href="#">TR</b-dropdown-item>
+            <b-dropdown-item @click="changeLanguage('en')">EN</b-dropdown-item>
+            <b-dropdown-item @click="changeLanguage('tr')">TR</b-dropdown-item>
         </b-nav-item-dropdown>
       </b-navbar-nav>
     </b-collapse>
@@ -21,16 +21,24 @@
 </template>
 
 <script>
-import { mapGetters } from 'vuex';
+import { mapGetters, mapMutations } from 'vuex';
 
 export default {
     name:"Menu",
     computed:mapGetters(['getCount']),
     data() {
       return {
-        total:0,
+        total:this.getCount,
+      }
+    },
+    methods:{
+      ...mapMutations('notification',['pushNotification']),
+      changeLanguage(val){
+        this.$root.$i18n.locale = val;
+        this.pushNotification({id:(Math.floor(Math.random() * 9999) +1) ,message:this.$t("message.changedLang"),type:"success"})
       }
     }
+
 }
 </script>
 
