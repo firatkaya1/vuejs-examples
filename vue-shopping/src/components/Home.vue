@@ -21,7 +21,7 @@ export default {
           title:"Çakıl Taşı",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -29,7 +29,7 @@ export default {
           title:"Çakıl Taşı 2",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -37,7 +37,7 @@ export default {
           title:"Çakıl Taşı 3",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -45,7 +45,7 @@ export default {
           title:"Çakıl Taşı 4",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -53,7 +53,7 @@ export default {
           title:"Çakıl Taşı 5",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1,
         },
         {
@@ -61,7 +61,7 @@ export default {
           title:"Çakıl Taşı 6",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -69,7 +69,7 @@ export default {
           title:"Çakıl Taşı 7",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -77,7 +77,7 @@ export default {
           title:"Çakıl Taşı 8",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -85,7 +85,7 @@ export default {
           title:"Çakıl Taşı 9",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -93,7 +93,7 @@ export default {
           title:"Çakıl Taşı 10",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -101,7 +101,7 @@ export default {
           title:"Araba Sevdası",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -109,7 +109,7 @@ export default {
           title:"Zaman Çarkı",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -117,7 +117,7 @@ export default {
           title:"Test Kitabı",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         }
 
@@ -128,7 +128,7 @@ export default {
           title:"Çakıl Taşı",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -136,7 +136,7 @@ export default {
           title:"Çakıl Taşı 2",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -144,7 +144,7 @@ export default {
           title:"Çakıl Taşı 3",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -152,7 +152,7 @@ export default {
           title:"Çakıl Taşı 4",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -160,7 +160,7 @@ export default {
           title:"Çakıl Taşı 5",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1,
         },
         {
@@ -168,7 +168,7 @@ export default {
           title:"Çakıl Taşı 6",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -176,7 +176,7 @@ export default {
           title:"Çakıl Taşı 7",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -184,7 +184,7 @@ export default {
           title:"Çakıl Taşı 8",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -192,7 +192,7 @@ export default {
           title:"Çakıl Taşı 9",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -200,7 +200,7 @@ export default {
           title:"Çakıl Taşı 10",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -208,7 +208,7 @@ export default {
           title:"Araba Sevdası",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -216,7 +216,7 @@ export default {
           title:"Zaman Çarkı",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         },
         {
@@ -224,7 +224,7 @@ export default {
           title:"Test Kitabı",
           oldPrice:19.99,
           newPrice:12.99,
-          imageURL:"/img/logo.82b9c7a5.png",
+          imageURL:"/vueshopping/img/logo.82b9c7a5.png",
           total:1
         }
 

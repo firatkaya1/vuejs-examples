@@ -2,7 +2,7 @@
     <div>
         <b-row class="border border-info mr-2 ml-2 p-2 mt-4">
             <b-col cols="12 text-center">
-                <img alt="Vue logo" v-bind:src="product.imageURL" width="100px" height="120px">
+                <img alt="Vue logo" :src="product.imageURL" width="100px" height="120px">
             </b-col>
             <div class="w-100 mb-2 mt-2 "></div>
             <b-col md="12" class="text-left border-bottom"><b>{{ product.title }}</b></b-col>
